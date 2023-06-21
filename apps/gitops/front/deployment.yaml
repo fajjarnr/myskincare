@@ -1,0 +1,30 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: frontpage
+  namespace: myskincare
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: frontpage
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: frontpage
+    spec:
+      imagePullSecrets:
+        - name: quay-secret-registry
+      containers:
+        - name: frontpage
+          image: example-registry-quay-openshift-operators.apps.cluster-csvlw.csvlw.sandbox1045.opentlc.com/fajjarnr/frontpage:latest
+          ports:
+            - containerPort: 3000
+              protocol: TCP
+          env:
+            - name: API_GATEWAY
+              value: backend-service
+            - name: PAYMENT_GATEWAY
+              value: payment-service
+          imagePullPolicy: Always

@@ -1,0 +1,25 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: backend
+  namespace: myskincare
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: backend
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: backend
+    spec:
+      imagePullSecrets:
+        - name: quay-secret-registry
+      containers:
+        - name: backend
+          image: example-registry-quay-openshift-operators.apps.cluster-csvlw.csvlw.sandbox1045.opentlc.com/fajjarnr/backend:latest
+          ports:
+            - containerPort: 5000
+              protocol: TCP
+          imagePullPolicy: Always

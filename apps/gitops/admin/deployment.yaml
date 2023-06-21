@@ -1,0 +1,28 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: admin
+  namespace: myskincare
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: admin
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: admin
+    spec:
+      imagePullSecrets:
+        - name: quay-secret-registry
+      containers:
+        - name: admin
+          image: example-registry-quay-openshift-operators.apps.cluster-csvlw.csvlw.sandbox1045.opentlc.com/fajjarnr/admin:latest
+          ports:
+            - containerPort: 3001
+              protocol: TCP
+          env:
+            - name: API_GATEWAY
+              value: backend-service
+          imagePullPolicy: Always
