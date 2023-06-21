@@ -1,0 +1,25 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "special": 1,
+      "role": "admin",
+      "email": "fajjarnr@gmail.com",
+      "name": "Fajar Nur Rohman"
+    },
+    {
+      "id": 3,
+      "special": 1,
+      "role": "user",
+      "email": "siti@gmail.com",
+      "name": "Siti"
+    },
+    {
+      "id": 2,
+      "special": 1,
+      "role": "user",
+      "email": "budi@gmail.com",
+      "name": "Budi"
+    }
+  ]
+}

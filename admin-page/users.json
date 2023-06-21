@@ -1,0 +1,18 @@
+{
+  "user_item_arr": [
+    {
+      "id": 1,
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "special_int": 1
+    },
+    {
+      "id": 2,
+      "name": "Fajar Nur Rohman",
+      "email": "fajar@gmail.com",
+      "role": "user",
+      "special_int": 1
+    }
+  ]
+}

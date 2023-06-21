@@ -1,0 +1,170 @@
+{
+  "product": {
+    "Items": [
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p3.jpg",
+        "special": 1,
+        "rating": 5,
+        "id": 3,
+        "price": "Rp 49.000",
+        "sales": "Terjual 5 rb",
+        "name": "Holyshield! UV Watery Sunscreen Gel SPF 50+ PA++++"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p6.png",
+        "special": 1,
+        "rating": 5,
+        "id": 6,
+        "price": "Rp 89.000",
+        "sales": "Terjual 2 rb",
+        "name": "RESURRECT Multibiome Serum"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p5.jpg",
+        "special": 1,
+        "rating": 4,
+        "id": 5,
+        "price": "Rp 199.000",
+        "sales": "Terjual 5 rb",
+        "name": "SUPPLE POWER Hyaluronic9+ Onsen Essence Toner"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p12.png",
+        "special": 1,
+        "rating": 4,
+        "id": 12,
+        "price": "Rp 99.000",
+        "sales": "Terjual 5 rb",
+        "name": "ACNEDOT Treatment Low pH Cleanser"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p4.jpg",
+        "special": 1,
+        "rating": 5,
+        "id": 4,
+        "price": "Rp 99.000",
+        "sales": "Terjual 1 rb",
+        "name": "Revive Potion 3% Arbutin + Bakuchiol"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p1.jpg",
+        "special": 1,
+        "rating": 5,
+        "id": 1,
+        "price": "Rp 89.000",
+        "sales": "Terjual 10 rb+",
+        "name": "BAKUCHIOL Skinpair Oil Serum"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p2.png",
+        "special": 1,
+        "rating": 5,
+        "id": 2,
+        "price": "Rp 119.000",
+        "sales": "Terjual 8 rb",
+        "name": "GLOW MAKER AHA BHA PHA Clarifying Treatment Toner"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p11.jpg",
+        "special": 1,
+        "rating": 4,
+        "id": 11,
+        "price": "Rp 45.000",
+        "sales": "Terjual 5 rb",
+        "name": "Omega Butter Deep Cleansing Balm"
+      },
+      {
+        "special": 1,
+        "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p8.png",
+        "rating": 5,
+        "price": "Rp 89.000",
+        "id": 8,
+        "sales": "Terjual 3 rb",
+        "name": "ACNEDOT Treatment Moisturizer Gel"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p9.jpg",
+        "special": 1,
+        "rating": 5,
+        "id": 9,
+        "price": "Rp 45.000",
+        "sales": "Terjual 6 rb",
+        "name": "Reset Gentle Micellar Cleansing Water"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p10.png",
+        "special": 1,
+        "rating": 4,
+        "id": 10,
+        "price": "Rp 65.000",
+        "sales": "Terjual 5 rb",
+        "name": "ACNEDOT Treatment Toner"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/products/p7.png",
+        "special": 1,
+        "rating": 4,
+        "id": 7,
+        "price": "Rp 125.000",
+        "sales": "Terjual 5 rb",
+        "name": "AHA 7%, BHA 1%, PHA 3% Weekly Peeling Solution"
+      }
+    ],
+    "Count": 12,
+    "ScannedCount": 12
+  },
+  "campaign": {
+    "Items": [
+      {
+        "imageUrl": "https://media.fajar-project.site/banners/banner8.jpg",
+        "special": 1,
+        "id": 8,
+        "name": "banner8"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/banners/banner4.jpg",
+        "special": 1,
+        "id": 4,
+        "name": "banner4"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/banners/banner6.jpeg",
+        "special": 1,
+        "id": 6,
+        "name": "banner6"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/banners/banner1.jpg",
+        "special": 1,
+        "id": 1,
+        "name": "banner1"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/banners/banner2.jpg",
+        "special": 1,
+        "id": 2,
+        "name": "banner2"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/banners/banner5.jpg",
+        "special": 1,
+        "id": 5,
+        "name": "banner5"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/banners/banner7.jpg",
+        "special": 1,
+        "id": 7,
+        "name": "banner7"
+      },
+      {
+        "imageUrl": "https://media.fajar-project.site/banners/banner3.jpg",
+        "special": 1,
+        "id": 3,
+        "name": "banner3"
+      }
+    ],
+    "Count": 8,
+    "ScannedCount": 8
+  }
+}

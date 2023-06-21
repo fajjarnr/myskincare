@@ -1,0 +1,52 @@
+{
+  "banner_item_arr": [
+    {
+      "special_int": 1,
+      "id": 8,
+      "name": "banner8",
+      "imageUrl": "https://media.fajar-project.site/banners/banner8.jpg"
+    },
+    {
+      "special_int": 1,
+      "id": 4,
+      "name": "banner4",
+      "imageUrl": "https://media.fajar-project.site/banners/banner4.jpg"
+    },
+    {
+      "special_int": 1,
+      "id": 6,
+      "name": "banner6",
+      "imageUrl": "https://media.fajar-project.site/banners/banner6.jpeg"
+    },
+    {
+      "special_int": 1,
+      "id": 1,
+      "name": "banner1",
+      "imageUrl": "https://media.fajar-project.site/banners/banner1.jpg"
+    },
+    {
+      "special_int": 1,
+      "id": 2,
+      "name": "banner2",
+      "imageUrl": "https://media.fajar-project.site/banners/banner2.jpg"
+    },
+    {
+      "special_int": 1,
+      "id": 5,
+      "name": "banner5",
+      "imageUrl": "https://media.fajar-project.site/banners/banner5.jpg"
+    },
+    {
+      "special_int": 1,
+      "id": 7,
+      "name": "banner7",
+      "imageUrl": "https://media.fajar-project.site/banners/banner7.jpg"
+    },
+    {
+      "special_int": 1,
+      "id": 3,
+      "name": "banner3",
+      "imageUrl": "https://media.fajar-project.site/banners/banner3.jpg"
+    }
+  ]
+}

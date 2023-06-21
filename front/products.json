@@ -1,0 +1,112 @@
+{
+  "product_item_arr": [
+    {
+      "id": 1,
+      "name": "BAKUCHIOL Skinpair Oil Serum",
+      "price": "Rp 89.000",
+      "sales": "Terjual 10 rb+",
+      "rating": 5,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p1.jpg",
+      "special_int": 1
+    },
+    {
+      "id": 2,
+      "name": "GLOW MAKER AHA BHA PHA Clarifying Treatment Toner",
+      "price": "Rp 119.000",
+      "sales": "Terjual 8 rb",
+      "rating": 5,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p2.png",
+      "special_int": 1
+    },
+    {
+      "id": 3,
+      "name": "Holyshield! UV Watery Sunscreen Gel SPF 50+ PA++++",
+      "price": "Rp 49.000",
+      "sales": "Terjual 5 rb",
+      "rating": 5,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p3.jpg",
+      "special_int": 1
+    },
+    {
+      "id": 4,
+      "name": "Revive Potion 3% Arbutin + Bakuchiol",
+      "price": "Rp 99.000",
+      "sales": "Terjual 1 rb",
+      "rating": 5,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p4.jpg",
+      "special_int": 1
+    },
+    {
+      "id": 5,
+      "name": "SUPPLE POWER Hyaluronic9+ Onsen Essence Toner",
+      "price": "Rp 199.000",
+      "sales": "Terjual 5 rb",
+      "rating": 4,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p5.jpg",
+      "special_int": 1
+    },
+    {
+      "id": 6,
+      "name": "RESURRECT Multibiome Serum",
+      "price": "Rp 89.000",
+      "sales": "Terjual 2 rb",
+      "rating": 5,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p6.png",
+      "special_int": 1
+    },
+    {
+      "id": 7,
+      "name": "AHA 7%, BHA 1%, PHA 3% Weekly Peeling Solution",
+      "price": "Rp 125.000",
+      "sales": "Terjual 5 rb",
+      "rating": 4,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p7.png",
+      "special_int": 1
+    },
+    {
+      "id": 8,
+      "name": "ACNEDOT Treatment Moisturizer Gel",
+      "price": "Rp 89.000",
+      "sales": "Terjual 3 rb",
+      "rating": 5,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p8.png",
+      "special_int": 1
+    },
+    {
+      "id": 9,
+      "name": "Reset Gentle Micellar Cleansing Water",
+      "price": "Rp 45.000",
+      "sales": "Terjual 6 rb",
+      "rating": 5,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p9.jpg",
+      "special_int": 1
+    },
+    {
+      "id": 10,
+      "name": "ACNEDOT Treatment Toner",
+      "price": "Rp 65.000",
+      "sales": "Terjual 5 rb",
+      "rating": 4,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p10.png",
+      "special_int": 1
+    },
+    {
+      "id": 11,
+      "name": "Omega Butter Deep Cleansing Balm",
+      "price": "Rp 45.000",
+      "sales": "Terjual 5 rb",
+      "rating": 4,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p11.jpg",
+      "special_int": 1
+    },
+    {
+      "id": 12,
+      "name": "ACNEDOT Treatment Low pH Cleanser",
+      "price": "Rp 99.000",
+      "sales": "Terjual 5 rb",
+      "rating": 4,
+      "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p12.png",
+      "special_int": 1
+    }
+  ]
+}

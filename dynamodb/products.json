@@ -1,0 +1,122 @@
+[
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p3.jpg",
+    "special": 1,
+    "rating": 5,
+    "id": 3,
+    "price": "Rp 49.000",
+    "sales": "Terjual 5 rb",
+    "name": "Holyshield! UV Watery Sunscreen Gel SPF 50+ PA++++",
+    "description": "Somethinc Sunscreen Gel dengan SPF 50+ PA++++ & teknologi Encapsulated UV Filter yang memberikan proteksi lebih maksimal dari sinar UVA & UVB. Somethinc SPF 50 ini dilengkapi dengan proteksi terhadap Polusi, Blue-Light, & Infra-Red untuk mencegah tanda penuaan dini. Dengan Snowflake Molecules yang memberikan sensasi dingin & menyerap langsung seperti air, nyaman digunakan sepanjang hari, bebas alkohol, tidak lengket, serta no white-cast! Bikin betah & gak ada alasan lagi untuk gak pakai sunscreen Somethinc!"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p6.png",
+    "special": 1,
+    "rating": 5,
+    "id": 6,
+    "price": "Rp 89.000",
+    "sales": "Terjual 2 rb",
+    "name": "RESURRECT Multibiome Serum",
+    "description": "Serum neutralizer & balancer ini bertindak sebagai solusi bagi kulit yang mengalami breakout dengan Millions Microbiome Balancer in One Drop sehingga mencegah permasalahan kulit akibat ketidakseimbangan skin mikrobiota. Gangguan ini biasanya terjadi akibat pola hidup seperti penggunaan produk kebersihan serta gesekan kulit dengan masker, pakaian, ataupun shaving. Saat skin microbiota tidak seimbang, kulit akan menjadi tidak toleran atau lebih sensitif, serta tampak kusam. Dikemas dengan pre-, pro-, & post biotic untuk menjaga keseimbangan skin microbiota sehingga kulit ternutrisi, sehat & lebih cerah."
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p5.jpg",
+    "special": 1,
+    "rating": 4,
+    "id": 5,
+    "price": "Rp 199.000",
+    "sales": "Terjual 5 rb",
+    "name": "SUPPLE POWER Hyaluronic9+ Onsen Essence Toner",
+    "description": "Hydrating Toner yang mengandung kesegaran 79% Onsen Belgium Hot Spring Water dan 9 Hyaluronic Acid yang mampu menghidrasi kulit hingga pori-pori"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p12.png",
+    "special": 1,
+    "rating": 4,
+    "id": 12,
+    "price": "Rp 99.000",
+    "sales": "Terjual 5 rb",
+    "name": "ACNEDOT Treatment Low pH Cleanser",
+    "description": "Sabun pembersih wajah vegan dengan pH seimbang yang memiliki kemampuan 5X Acne Combat Power untuk membantu membersihkan pori-pori sekaligus mengangkat kotoran, sel kulit mati, residu, & minyak berlebih yang dapat menyebabkan timbulnya jerawat. Formula non-stripping & non-drying dengan Tea Tree sebagai antibakteri untuk melawan jerawat & Trehalose untuk menjaga kulit tetap lembab. Dengan tekstur yang mudah dibaurkan ke seluruh wajah, menjadikan kulit wajah lebih bersih, halus, & bebas kilap."
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p4.jpg",
+    "special": 1,
+    "rating": 5,
+    "id": 4,
+    "price": "Rp 99.000",
+    "sales": "Terjual 1 rb",
+    "name": "Revive Potion 3% Arbutin + Bakuchiol",
+    "description": "Serum yang diinfus dengan 3 Superstar Brightening Agent yang menghasilkan Maximum Brightening Result, yaitu Alpha Arbutin, SabiWhite®, & Bakuchiol yang mampu mencerahkan & meratakan warna kulit tanpa efek samping. Disempurnakan dengan kandungan Bakuchiol yang juga mampu melindungi kulit dari polusi & radikal bebas, menyamarkan hiperpigmentasi, serta menghambat penuaan dini."
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p1.jpg",
+    "special": 1,
+    "rating": 5,
+    "id": 1,
+    "price": "Rp 89.000",
+    "sales": "Terjual 10 rb+",
+    "name": "BAKUCHIOL Skinpair Oil Serum",
+    "description": "Serum Vegan yang menjadi alternatif retinol dari bahan natural untuk merawat jerawat sehingga cocok digunakan untuk seluruh jenis kulit bahkan direkomendasikan untuk kulit berminyak. Bakuchiol mampu menstimulasi pembentukan collagen & memperbaiki tekstur kulit. Dikombinasikan dengan Salicylic Acid, serum ini mampu bekerja untuk menghilangkan beruntusan pada wajah, sehingga kulit menjadi halus, glowing, dan tampak kenyal. Cocok untuk pemula skincare, kulit sensitif, dan berjerawat."
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p2.png",
+    "special": 1,
+    "rating": 5,
+    "id": 2,
+    "price": "Rp 119.000",
+    "sales": "Terjual 8 rb",
+    "name": "GLOW MAKER AHA BHA PHA Clarifying Treatment Toner",
+    "description": "Toner eksfoliasi harian yang cocok untuk pemula atau kulit sensitif. Terbukti secara klinis dapat mengangkat sel kulit mati, mengatasi pori-pori tersumbat, meratakan tekstur & warna kulit, serta mengangkat sisa kotoran terdalam sehingga kulit menjadi lebih bersih, halus, & sehat. Bebaskan kulit dari kusam dalam 30 hari!"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p11.jpg",
+    "special": 1,
+    "rating": 4,
+    "id": 11,
+    "price": "Rp 45.000",
+    "sales": "Terjual 5 rb",
+    "name": "Omega Butter Deep Cleansing Balm",
+    "description": "Cleanser vegan berbentuk balm lembut yang diinfus dengan kandungan antioksidan Botanical Extracts, OMEGA 3-6-9, Vitamin A & E yang dapat meluruhkan seluruh kotoran, sebum berlebih, makeup, dan sunscreen waterproof, dalam 20 detik tanpa meninggalkan residu, perih, serta meninggalkan kulit yang bersih & lembab."
+  },
+  {
+    "special": 1,
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p8.png",
+    "rating": 5,
+    "price": "Rp 89.000",
+    "id": 8,
+    "sales": "Terjual 3 rb",
+    "name": "ACNEDOT Treatment Moisturizer Gel",
+    "description": "Sabun pembersih wajah vegan dengan pH seimbang yang memiliki kemampuan 5X Acne Combat Power untuk membantu membersihkan pori-pori sekaligus mengangkat kotoran, sel kulit mati, residu, & minyak berlebih yang dapat menyebabkan timbulnya jerawat. Formula non-stripping & non-drying dengan Tea Tree sebagai antibakteri untuk melawan jerawat & Trehalose untuk menjaga kulit tetap lembab. Dengan tekstur yang mudah dibaurkan ke seluruh wajah, menjadikan kulit wajah lebih bersih, halus, & bebas kilap."
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p9.jpg",
+    "special": 1,
+    "rating": 5,
+    "id": 9,
+    "price": "Rp 45.000",
+    "sales": "Terjual 6 rb",
+    "name": "Reset Gentle Micellar Cleansing Water",
+    "description": "Micellar Water vegan dengan NON-IONIC SURFACTANT yang tidak menembus kulit & tidak menarik sebum minyak alami sehingga sangat nyaman digunakan sehari-hari, tanpa membuat kulit menjadi kering & mengikis lapisan barrier kulit. Mampu membersihkan make-up & sunscreen serta menyegarkan kulit setelah beraktifitas seharian."
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p10.png",
+    "special": 1,
+    "rating": 4,
+    "id": 10,
+    "price": "Rp 65.000",
+    "sales": "Terjual 5 rb",
+    "name": "ACNEDOT Treatment Toner",
+    "description": "Toner pH balance vegan untuk kulit berjerawat yang membantu memperkecil tampilan pori & menyeimbangkan minyak berlebih pada wajah. Dengan kandungan 5X Acne Combat Power & 91% Korean Green Tea Water untuk melawan bakteri penyebab jerawat sekaligus menenangkan kemerahan pada kulit berjerawat."
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/products/p7.png",
+    "special": 1,
+    "rating": 4,
+    "id": 7,
+    "price": "Rp 125.000",
+    "sales": "Terjual 5 rb",
+    "name": "AHA 7%, BHA 1%, PHA 3% Weekly Peeling Solution",
+    "description": "Serum eksfoliasi dengan kandungan AHA 3% BHA 1% PHA 2% yang dapat mengangkat sel kulit mati, mengatasi masalah pori-pori tersumbat & komedo, sekaligus menjaga kelembaban kulit."
+  }
+]

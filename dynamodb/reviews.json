@@ -1,0 +1,48 @@
+[
+  {
+    "productId": "abc123",
+    "reviewId": "def456",
+    "customerId": "ghi789",
+    "rating": 5,
+    "title": "Best product ever!",
+    "description": "I am so impressed with this product. It has completely exceeded my expectations and I will definitely be purchasing more in the future.",
+    "createdAt": "2022-01-01T00:00:00Z"
+  },
+  {
+    "productId": "abc123",
+    "reviewId": "jkl012",
+    "customerId": "mno345",
+    "rating": 4,
+    "title": "Very satisfied",
+    "description": "I am very satisfied with this product. It does exactly what it's supposed to do and is very easy to use.",
+    "createdAt": "2022-01-02T00:00:00Z"
+  },
+  {
+    "productId": "abc123",
+    "reviewId": "pqr678",
+    "customerId": "stu901",
+    "rating": 3,
+    "title": "It's okay",
+    "description": "The product is okay, but there are some things I don't like about it. It could be improved in a few areas.",
+    "createdAt": "2022-01-03T00:00:00Z"
+  },
+  {
+    "productId": "abc123",
+    "reviewId": "vwx234",
+    "customerId": "yza567",
+    "rating": 2,
+    "title": "Disappointed",
+    "description": "I was really disappointed with this product. It didn't live up to my expectations and I wouldn't recommend it to others.",
+    "createdAt": "2022-01-04T00:00:00Z"
+  },
+
+  {
+    "productId": "abc123",
+    "reviewId": "bcd890",
+    "customerId": "efg123",
+    "rating": 1,
+    "title": "Worst product ever!",
+    "description": "This is the worst product I have ever used. I would not recommend it to anyone.",
+    "createdAt": "2022-01-05T00:00:00Z"
+  }
+]

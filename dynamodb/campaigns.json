@@ -1,0 +1,50 @@
+[
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/banners/banner8.jpg",
+    "special": 1,
+    "id": 8,
+    "name": "banner8"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/banners/banner4.jpg",
+    "special": 1,
+    "id": 4,
+    "name": "banner4"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/banners/banner6.jpeg",
+    "special": 1,
+    "id": 6,
+    "name": "banner6"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/banners/banner1.jpg",
+    "special": 1,
+    "id": 1,
+    "name": "banner1"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/banners/banner2.jpg",
+    "special": 1,
+    "id": 2,
+    "name": "banner2"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/banners/banner5.jpg",
+    "special": 1,
+    "id": 5,
+    "name": "banner5"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/banners/banner7.jpg",
+    "special": 1,
+    "id": 7,
+    "name": "banner7"
+  },
+  {
+    "imageUrl": "https://fajjarnr-image-assets.s3.ap-southeast-3.amazonaws.com/banners/banner3.jpg",
+    "special": 1,
+    "id": 3,
+    "name": "banner3"
+  }
+]
